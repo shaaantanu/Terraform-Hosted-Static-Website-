@@ -1,0 +1,14 @@
+* {
+    padding: 1%;
+    background-color: #f2f3f4;
+}
+
+table {
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #ffffff;
+}
+
+td {
+    width: 2%;
+}
